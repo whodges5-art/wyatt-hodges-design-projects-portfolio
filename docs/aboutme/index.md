@@ -1,3 +1,4 @@
 #About Me
 Hi my name is Wyatt Hodges and I'm a junior mechanical engineering student at UNCC. I began engineering coursework my freshman year of high school when i took drafting classes. After learning about projections, angles, and visualizing designs I became much more interested in the way things work and how different pieces fit together. During my time at school I have gained experience in 3D modeling, computer programming, physics, and chemistry which have helped me better understand how things work. I am interested in studying astronautics and propulsion as I further my engineering career. 
+
 What it means to defend an engineering decision is to create analytical proof that a design increases efficiency. While I think I can defend an engineering decision I do not know the most effective way to do this. It requires thorough documentation and a clear process that can be maintained to keep precise and accurate measurements.   
