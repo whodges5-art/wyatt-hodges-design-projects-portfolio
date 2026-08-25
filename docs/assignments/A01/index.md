@@ -17,9 +17,11 @@ This portfolio is a great example of an engineering portfolio. The link takes yo
 
 Part B: Product Analysis
 
-[assembled](scissors-assebled.jpeg)
-[largehole](scissors-large-hole.jpeg)
-[smallhole](scissors-small-hole.jpeg)
+![assembled](scissors-assebled.jpeg)
+![largehole](scissors-large-hole.jpeg)
+![smallhole](scissors-small-hole.jpeg)
+
+The function of this item is to divide thin objects (hair, paper, etc.)into smaller portions. It uses the two blades attached together by a screw that allows them to rotate around and focus the force on a smaller surface area.  This uses the model for a force of a blow where F= (Ws)/d, one assumption that makes this model valid is that the screw is frictionless. The patent for this product is US2626460A and is for a type of scissors that incorporates plastic and metal parts. multiple materials were incorporated to allow a screw to be threaded directly into to blade so friction between the 2 blades is adjustable another design would be using a nut and bolt to fasten the blades. The screw inside the blade also prevents the position of the blades from deforming over time.
 ## Decide
 1 Homepage Identity:
 
