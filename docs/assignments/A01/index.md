@@ -18,6 +18,17 @@ This portfolio is a great example of an engineering portfolio. The link takes yo
 
 
 ## Decide
+1 Homepage Identity:
+
+The homepage of this portfolio is meant to tell the reader what I will be accomplishing in this class. The homepage includes a paragraph with the objectives of this course and and lets the reader know what was being built in this portfolio. The homepage includes the general format for completing assignments, analyze, decide, and communicate allowing the reader to easily follow the assignments. The page ends with the course schedule and the ideal final product so the reader is able to understand the steps taken in building this portfolio.
+
+2 One Intentional Customization
+
+I decided to edit the color scheme of the website. something that stands out when the page is first opened is the difference in the green MkDocs uses and the UNCC green in the image. I decided to change the primary color to black so the frame didn't stand out as much. I also decided to change the accent color to green so navigating between tabs would be more visible. 
+
+3 Your Documentation Standard
+
+All of my documentation will be thorough and clearly communicate my analysis and decisions.
 
 
 ## Communicate
