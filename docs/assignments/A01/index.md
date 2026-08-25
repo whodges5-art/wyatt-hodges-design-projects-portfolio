@@ -15,8 +15,11 @@ Portfolio 2: https://fwachter.github.io/
 
 This portfolio is a great example of an engineering portfolio. The link takes you to the homepage that only includes his name, a personal logo, and important links; Facebook, You Tube, LinkedIn, and Git Hub. There are four other titled pages, About Me, Engineering Experience, Project Experience, and Contact Me. All of his projects and work experience include their own important links for the reader to learn more about any of them, as well as giving the reader insight into his decision making process. The contact me section is also a nice touch allowing people a way to directly reach out to him about possible work opportunities and includes a link to his resume.  
 
+Part B: Product Analysis
 
-
+[assembled](scissors-assebled.jpeg)
+[largehole](scissors-large-hole.jpeg)
+[smallhole](scissors-small-hole.jpeg)
 ## Decide
 1 Homepage Identity:
 
