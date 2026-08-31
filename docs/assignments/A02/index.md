@@ -1,7 +1,7 @@
 # A2 – Truss Stress Analysis
 
 ## Objective
-
+The Objective of this assignment is to design and create a a 3D model of a truss and learn the steps of the design process involved. 
 
 ## Analyze
 
