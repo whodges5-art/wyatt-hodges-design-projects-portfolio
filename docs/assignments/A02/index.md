@@ -5,6 +5,7 @@ The Objective of this assignment is to design and create a a 3D model of a truss
 
 ## Analyze
 ![Problem](TrussProblem.png)
+
 The truss needs to be able to support the 2 loads, which I chose to be equal to 20 kN. The distance between the members are given in vertical and horizontal distances and can be used to break forces into their x and y directions. A is a pin so it will have a vertical and horizontal reaction force. B is a roller so it will have a vertical reaction force.  
 
 ## Decide
