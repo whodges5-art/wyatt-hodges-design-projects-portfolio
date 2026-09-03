@@ -15,5 +15,9 @@ I started my decision making process by sketching different ways to connect thes
 
 I originally decided to connect points C and A because then most of the reaction forces would be in pin A, but after I started drawing a free body diagram I realized there would be more forces acting at A than anywhere else so I decided on the one that connects points B and D to make the math simpler. 
 
+![FinalDecision](A2FinalDecision.jpeg)
+
 ## Communicate
+
+After deciding how I was going to design the truss the next step was to solve for the internal loads of the beams. The first step was drawing the free body diagram for each joint and symbolically solving for the unknown internal loads. This was done by setting all forces in the x and y directions equal to 0 then and using the ratio of vertical/horizontal distance to break down forces that do not lie on those axis.
 
