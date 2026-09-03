@@ -3,8 +3,6 @@
 ## Objective
 The Objective of this assignment is to design and create a a 3D model of a truss and learn the steps of the design process involved. 
 
-## Part 1 Design Truss
-
 ## Analyze
 ![Problem](TrussProblem.png)
 
@@ -30,3 +28,19 @@ After solving for the values symbolically I was able to get all the internal for
 
 ![Fsolved1](A2Fsolved1.jpeg)
 ![FSolved2](A2FSolved2.jpeg)
+
+After finding the internal loads the next step is to determine the size of the beams necessary to support the loads and the weight of the truss. The problem said the truss would be made of A 500 structural steel with uniform area so I used a table on https://beamdimensions.com/materials/Steel/ASTM/ASTM_A500/ to find its properties, the safety factor is 3.5 and the largest internal load is 37.97 kN. There were multiple values dependent on the grade, I decided A is probably cheapest and used those table values for yield strength and density. The first step in this process was to symbolically solve for the minimum cross section area (we already did it in class so that step is at the bottom of the page), then plug in my values and numerically solve for it. For the force I used the largest internal load, because this member is most likely to break. To determine the weight of the truss the equation is area * length * density * gravity constant. Because all the members have the same area, density, and gravity constant I solved this by plugging the total length of all the beams into the equation rather than finding the weight of every beam. 
+
+![BeamSize](A2BeamSize.jpeg)
+
+The final step in solving this problem is to determine the necessary size of the pins that will be holding the truss together. First I had to find the pin that would have the greatest shear force applied to it. I did this by drawing a free body diagram for each pin with equal and opposite forces pushing along the axis. The values of the forces were determined by which ones were acting solely in the positive/negative x and y direction and knowing the opposite equilibrium force would have an equal magnitude. 
+
+![ShearFBD](A2ShearFBD.jpeg)
+
+Yield shear strength, safety factor, and density were all given so I solved the shear stress equation for area symbolically. the value for yield strength was in incorrect units so I first used google to convert my value to correct units then plugged in my numbers and numerically solved for the cross sectional area. 
+
+![PinSolved](A2PinSolved.jpeg)
+
+After finding area the final task was to find the weight of all the pins combined. This used the same equation as the weight of the beams the only value I didn't have was the length of the pins so I googled how long a truss pin is and I found an equation for slenderness ratio that says the pin should be no more than 3 times as long as the its diameter, in this case the length should be less than 3.99 cm. After finding that value I was able to find the weight of 1 pin I then multiplied that value by 4 because there will be 1 pin at each joint. 
+
+![PinWeight](A2PinWeight.jpeg)
