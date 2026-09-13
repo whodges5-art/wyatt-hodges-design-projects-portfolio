@@ -12,4 +12,4 @@ Since I don't know what this bar is going to be used for other than practice wit
 
 
 ## Communicate
-
+While conducting the FEA I found that the computers value and my value for displacement were about the same with a 0.255% difference. I would expect these two values to be as close as they are because the force is applied to only one face and the geometry is simple, so very few assumptions are made. While hand calculations would work, I trust the computer's calculations more for this assignment because the computer takes into account certain factors such as strain displacement within the bar.   
