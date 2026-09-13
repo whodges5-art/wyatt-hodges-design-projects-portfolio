@@ -5,11 +5,36 @@ The Objective of this assignment is to use parametric design to model a bar and 
 
 
 ## Analyze
-The bar that is designed receives an applied axial load between 300 and 500 pounds of force and cannot deflect more than .009 inches. The bar is to be made from aluminum with a Youngs Modulus between 8.5x10^6 and ll.5x10^6. The area of the bar can be decided by me and this will allow me to find the length of the bar I am designing. I will then conduct FEA on the bar in Solidworks and compare the computers results with my hand calculations. I can then conduct FEA on the bar testing different loads and cross-sectional areas and compare those results.
+![Problem](A3Problem.png)
+
+The bar that is designed should have a circular cross-section, receives an applied axial load between 300 and 500 pounds of force, and cannot deflect more than .009 inches. The bar is to be made from aluminum with a Youngs Modulus between 8.5x10^6 and ll.5x10^6. The area of the bar can be decided by me and this will allow me to find the length of the bar I am designing. I will then conduct FEA on the bar in Solidworks and compare the computers results with my hand calculations. I can then conduct FEA on the bar testing different loads and cross-sectional areas and compare those results.
 
 ## Decide
+![Hand](HandWork.jpeg)
+
 Since I don't know what this bar is going to be used for other than practice with Solidworks I'm going to make its radius 1 inch and area of the circular cross section pi inches squared to simplify the math. Next is to find the length of the bar using the given equation for Young's Modulus. Using this equation, if area is constant, deflection will increase proportionally with length at a rate of F/E so to find the length of the bar I am going to use the smallest Young's Modulus and largest force for the ranges given. The length i found was a little more than 480 inches. Once I began modeling the bar I found the modulus for the aluminum I chose was actually around 10x10^6 so the length of my bar increased. 
 
+![Parameters](A3Parameters.png)
 
 ## Communicate
-While conducting the FEA I found that the computers value and my value for displacement were about the same with a 0.255% difference. I would expect these two values to be as close as they are because the force is applied to only one face and the geometry is simple, so very few assumptions are made. While hand calculations would work, I trust the computer's calculations more for this assignment because the computer takes into account certain factors such as strain displacement within the bar.   
+I began my modeling by drawing a circle and using my global variable for diameter to dimension it.
+
+![sketch](A3Sketch.png)
+
+I then extruded it to the calculated length from my parameters.
+
+![extrude](A3Extrude.png)
+
+I then created my simulation having a fixture on one end of my bar to hold it in place and a tensile force applied to the opposite face. I then created a mesh and ran the study to produce Von Mises, strain, and displacement charts. The max stress in the Von Mises is 0.1715 ksi which is about 20 times smaller than its yield strength (I'm using the Sy=4 ksi in solid works not the Sy=40 ksi given in the assignment) so I have a safety factor of 20.
+
+![sim](A3Sim.png)
+
+![VonMises](A3VonMises.png)
+
+![Disp](A3Displacement.png)
+
+After conducting the FEA I found that the computers value and my value for displacement were about the same with a 0.255% difference, my hand calculations were .009 inches and the computers were .009023 inches. I would expect these two values to be as close as they are because the force is applied to only one face and the geometry is simple, so very few assumptions are made. While hand calculations would work, I trust the computer's calculations more for this assignment because the computer takes into account certain factors such as strain displacement within the bar. 
+
+If there were a pin hole in this bar it would cause it to fail the safety factor because after looking at the stress concentration factor for a a flat bar with a hole, the stress concentration factor would be larger in a round bar because mass decreases above and below its centerline. I would estimate the concentrated stress at the whole would be around 0.60 ksi which is about 7 times smaller than the yield strength 4 ksi.
+
+![Kt](Ktchart.png)
