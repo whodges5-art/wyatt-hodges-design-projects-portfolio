@@ -43,6 +43,7 @@ Before I begin changing values I am assuming since the modulus of elasticity is 
 
 After modeling and simulating the bar with different area and load I found that displacement decreased when I decreased the load from 500 pounds to 300 pounds and displacement increased when I put a hole in my part decreasing its cross-sectional area. Something I didn't expect to happen is my part had displacement along both axis perpendicular to the force. 
 
+![Part2](A3Part2.png)
 During this assignment I learned the usefulness of finite element analysis as a tool for predictive modeling to figure out how parts will function under loads in the real world. The biggest mistake I made was not taking pictures as I was completing my cad works so I had to go back and re do my work to obtain documentation.
 
 This assignment took about an hour of hand calculations, about 2 hours to learn the CAD, complete it myself and cycle through different parameters to understand how they interact physically, and about 1.5 hours to document my processes and redo my CAD for a total of about 4.5 hours.
