@@ -16,6 +16,8 @@ Since I don't know what this bar is going to be used for other than practice wit
 
 ![Parameters](A3Parameters.png)
 
+[Download Bar](../A02/A2Bar.SLDPRT)
+
 ## Communicate
 I began my modeling by drawing a circle and using my global variable for diameter to dimension it.
 
