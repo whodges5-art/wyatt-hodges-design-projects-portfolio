@@ -22,6 +22,22 @@ For this assignment I chose PLA as the material because it is cheapest and shoul
 
 ### Figure 1
 
+![Figure1](A4Figure1.jpeg)
+
+The first step to figure 1 was listing knowns and unknows to solve the equations at the top of my page. There were some values that were up to my discretion so I decided the length of the beam would equal the length of its cross-sectional area and chose 34 mm after doing a quick check in solid works to see what dimensions would look right with a 28 mm diameter indent.
+
+![Decide](A4Decide.png)
+
+Once I had all my knowns and unknowns listed I could plug variables into my equation and solve symbolically for the min required h value to support the max stress and max deflection. after solving I found h would need to be 2.01 mm to support the max stress and 6.08 mm to prevent more than 0.30 mm of deflection so my h value is equal to 6.08 mm 
+
+### Figure 2
+
+![Figure2](A4Figure2.jpeg)
+
+For figure to I had the same values except with the same freedoms except L would need to be shorter because only a portion of figure 2 is able free to bend.
+I kept b the same a similar to above used solid works to see about how far the bolt holes should be from the edges to pick an L value.
+
+![Decide2](A4Decide2.png)
 
 ### Appendix 
 [Example Mounts](https://www.google.com/search?q=mounting+bracket+gearbox+motor+mount+designs&sca_esv=326e45127ec9a721&rlz=1C1VDKB_enUS959US967&udm=2&biw=1536&bih=730&sxsrf=APpeQns8jFo_-obYn5SgVI46MUhmRigk2Q%3A1789612536919&ei=-FGras_dN7G_p84PrNzD-Ak&ved=2ahUKEwjPubGcyvSWAxWx38kDHSzuEJ8Q4dUDegQIBhAN&uact=5&oq=mounting+bracket+gearbox+motor+mount+designs&gs_lp=Egtnd3Mtd2l6LWltZyIsbW91bnRpbmcgYnJhY2tldCBnZWFyYm94IG1vdG9yIG1vdW50IGRlc2lnbnNI0jBQwg5YgC1wAXgAkAEAmAFUoAHuBqoBAjExuAEDyAEA-AEBmAIAoAIAmAMAiAYBkgcAoAeEAbIHALgHAMIHAMgHAIAIAQ&sclient=gws-wiz-img)
