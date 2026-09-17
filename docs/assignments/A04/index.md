@@ -42,5 +42,18 @@ I kept b the same a similar to above used solid works to see about how far the b
 After I had my b and L I was able to solve for h which needed to be 0.294 mm to support the stress and 0.34 mm to prevent the deflection so my h ended up being 0.34 mm
 
 ### Sketch
+
+![Sketch](A4Sketch.jpeg)
+
+### CAD
+[Model](A4Mount.SLDPRT) [Drawing](A4Mount.SLDDRW)
+
+To model the mount a create an extruded square then extruded another square on the end so the two features created an L shape I then added the bolt holes to feature 2 by creating simple through holes with a 3.4 mm diameter. I then cut a circular indent for the motor to sit in, I made the diameter 28.2 so it could fit easily and cut 4.08 mm into the part so the screws that attach it to the mount only travel through 2 mm of material. Lastly I added the 4 M3 screw holes which was just a circular patter with a 22 mm diameter around the center of feature 1, and the center hole for the motor shaft which I made 6.1 mm for clearance. I was then able to create the drawing using the dimension and hole callout features to annotate it.
+
+### Reflection
+
+This assignment taught me to make assumptions in design to make it easier to create 1st models because having something to work with and refining is easier than creating a perfect product immediately. 
+
+This assignment took about 1 hour to solve and sketch about 1 hour to model and draw my part, and about 1.5 more hours to document totaling 3.5 hours 
 ### Appendix 
 [Example Mounts](https://www.google.com/search?q=mounting+bracket+gearbox+motor+mount+designs&sca_esv=326e45127ec9a721&rlz=1C1VDKB_enUS959US967&udm=2&biw=1536&bih=730&sxsrf=APpeQns8jFo_-obYn5SgVI46MUhmRigk2Q%3A1789612536919&ei=-FGras_dN7G_p84PrNzD-Ak&ved=2ahUKEwjPubGcyvSWAxWx38kDHSzuEJ8Q4dUDegQIBhAN&uact=5&oq=mounting+bracket+gearbox+motor+mount+designs&gs_lp=Egtnd3Mtd2l6LWltZyIsbW91bnRpbmcgYnJhY2tldCBnZWFyYm94IG1vdG9yIG1vdW50IGRlc2lnbnNI0jBQwg5YgC1wAXgAkAEAmAFUoAHuBqoBAjExuAEDyAEA-AEBmAIAoAIAmAMAiAYBkgcAoAeEAbIHALgHAMIHAMgHAIAIAQ&sclient=gws-wiz-img)
