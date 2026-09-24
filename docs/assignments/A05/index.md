@@ -41,5 +41,5 @@ For feature 3 I found I had to compare to different cross sectional dimensions b
 ### Fits
 
 "Machineries Handbook" pg 653
-For the feature 1 hole I would want a RC1 fit because the length of the shaft is pretty small and this would make it more difficult for the link to move while on it. For the 1 inch whole I would want an LT1 fit because this would make it unlikely the fit would be loose but it still should not require too much pressure to secure the 2 items.  
+For the feature 1 hole I would want a RC1 fit because the length of the shaft is pretty small and this would make it more difficult for the link to move while on it. For the 1 inch whole I would want an LT1 fit because this would make it unlikely the fit would be loose but it still should not require too much pressure to secure the 2 items. The best manufacturing process for this would probably be casting because of its small size but it could maybe be machined if the metal could be well secured, probably not because of how thin it is though.
 
