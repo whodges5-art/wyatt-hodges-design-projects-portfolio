@@ -58,3 +58,6 @@ After the final design the link had a max stress of 9672 psi at the bottom of th
 
 ## Communicate
 During this part of the assignment I learned how read stress and deflection maps effectively and the best practices for removing stress and strain by either adding or removing material and when each should be applied. If the material is not stiff or strong enough it is best to add more material to its cross-sectional area. If the material is able to meet the requirements it is best to remove material where there is high stress so it can be distributed under areas with little stress. 
+
+## SolidWorks
+[Hook](A6Hook.SLDPRT)[Link](A6Link.SLDPRT)
