@@ -11,7 +11,10 @@ For this assignment certain aspects of the problem are fixed and should not be c
 ![load](applyload.png)
 ![mesh](applymesh.png)
 
-Our process for conducting finite element analysis is to run a new finer mesh on the geometry until the calculated values begin to converge, once the values converge or convergence was attempted with 3 new meshes, then the values from the finest mesh are used to evaluate the design. The test for convergence is 2*|xf-xi|/(xf+xi) being less than .07 proves convergence, for this problem.   
+Our process for conducting finite element analysis is to run a new finer mesh on the geometry until the calculated values begin to converge, once the values converge or convergence was attempted with 3 new meshes, then the values from the finest mesh are used to evaluate the design. The test for convergence is 2*|xf-xi|/(xf+xi) being less than .07 proves convergence, for this problem.  
+
+I used these tables to track the values from each mesh/design of the hook. I only added diagram images from the finest meshes.
+![hooktables](hooktables.jpeg)
 
 ### Decide
 After running the first analysis I found that my part did not actually meet any of the necessary requirements (strength, deflection, or safety factor) for the problem and would break from this load. 
@@ -39,6 +42,9 @@ For my next design change I decided to add a second connector piece on the oppos
 ### Analyze
 The link that was design for A5 and A6 was meant to slide onto the hook and have a cylindrical hole at its other end so something could be fastened to the hook. Given that description when conducting FEA the hole meant to connect to the hook will be fixed and the other hole will receive the load.
 ![linkfea](linkloadfix.png)
+
+These were my tables for link finite element analysis.
+![linktables](linktables.jpeg)
 
 ### Decide
 After conducting the first finite element analysis I found the link to work correctly but the safety factor was 2.795 which is less than desirable so to increase the links safety factor I increased its thickness. 
