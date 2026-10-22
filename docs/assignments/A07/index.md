@@ -57,7 +57,8 @@ After conducting the FEA on this design I found it to be slightly less stiff and
 After the final design the link had a max stress of 9672 psi at the bottom of the sides of the added slot, a max deflection of .002876 in the area between the bottom hole and the slot, a safety factor of 4.124, and a mass of .21 pounds. Before adding the slot the max stress occurred at the sides of the hole with the applied force and max deflection occurred at the bottom of the same hole.
 
 ## Communicate
-During this part of the assignment I learned how read stress and deflection maps effectively and the best practices for removing stress and strain by either adding or removing material and when each should be applied. If the material is not stiff or strong enough it is best to add more material to its cross-sectional area. If the material is able to meet the requirements it is best to remove material where there is high stress so it can be distributed under areas with little stress. 
+During this part of the assignment I learned how read stress and deflection maps effectively and the best practices for removing stress and strain by either adding or removing material and when each should be applied. If the material is not stiff or strong enough it is best to add more material to its cross-sectional area. If the material is able to meet the requirements it is best to remove material where there is high stress so it can be distributed under areas with little stress. This Assignment took about 2 hours for the finite element analysis and about 3 hours to document
 
 ## SolidWorks
-[Hook](A6Hook.SLDPRT)[Link](A6Link.SLDPRT)
+[Hook](A6Hook.SLDPRT)
+[Link](A6Link.SLDPRT)
