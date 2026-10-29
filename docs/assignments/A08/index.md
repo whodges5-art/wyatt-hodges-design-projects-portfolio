@@ -23,20 +23,22 @@ The Gear box I started by drawing concentric circles for where the gears would b
 For the assembly the first step was to make my parts not fixed so the could be free to mate with each other I then created 2 center lines spaced .6875 to use as reference for the parts. I first made the gears concentric with the centerlines so they were correctly spaced and then added the gear mate between the two so they interacted correctly. After mating the gears I inserted the shafts by making the ends coincident with with gear faces and concentric with the centerlines. I next added the gear housings by setting the shaft holes concentric to their respective centerlines then offset one housing .1 inches from the face of a gear and the other coincident with the faces that meet when the box is closed. Lastly I added the bearings by making them concentric with the centerlines and coincident with the inside faces of the gear housing.  
 
 ## Links
-[18tooth]
-[48tooth]
-[Gearhouse1Part]
-[Gearhouse1Drawing]
-[Gearhouse2Part]
-[Gearhouse2Drawing]
-[InputBearingPart]
-[InputBearingDrawing]
-[OutputBearingPart]
-[OutputBearingDrawing]
-[ShortShaftPart]
-[ShortShaftDrawing]
-[TransmissionShaftPart]
-[TransmissionShaftDrawing]
+[18tooth](18toothgear.SLDPRT)
+[48tooth](48toothgear.SLDPRT)
+[Gearhouse1Part](Gearhouse1.SLDPRT)
+[Gearhouse1Drawing](Gearhouse1.SLDDRW)
+[Gearhouse2Part](Gearhouse2.SLDPRT)
+[Gearhouse2Drawing](Gearhosue2.SLDDRW)
+[InputBearingPart](inputbearing.SLDPRT)
+[InputBearingDrawing](inputbearing.SLDDRW)
+[OutputBearingPart](outputbearing.SLDPRT)
+[OutputBearingDrawing](outputbearing.SLDDRW)
+[ShortShaftPart](shortshaft.SLDPRT)
+[ShortShaftDrawing](shortshaft.SLDDRW)
+[TransmissionShaftPart](transmissionshaft.SLDPRT)
+[TransmissionShaftDrawing](transmissionshaft.SLDDRW)
+[Assembley](Assem1.SLDASM)
+[AssembleyDrawing](Assem1.SLDDRW)
 ## Communicate
 
 This took me about 9 hours to get done. I learned about how bearings functions and the importance of material selection for that process of designing bearings. I also learned about the importance of shaft size and strength in gearboxes for transmitting the correct amount of power without breaking or deforming from stress. 
