@@ -35,3 +35,5 @@ I solved for the bearing material and thickness the same way by drawing a free b
 For the frame I kept the design simple. I first needed to find the total dimensions of the pulley by adding its components. Once I knew the total length and width of the pulley I added .1 inches for clearance and made the holes the correct size to press fit the bearings. the depth is .4 inches so the bearings easily fill their housing. 
 
 ![frame](fram.jpeg)
+
+This assignment took me about 4 hours to complete and I learned about different things to take into account when designing a pulley and that greater friction creates larger power transmission.
