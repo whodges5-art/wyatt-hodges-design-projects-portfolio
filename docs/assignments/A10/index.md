@@ -24,5 +24,7 @@ I solved for the minimum length of the crosshead by modeling it as a beam fixed 
 ### Crosshead 
 When designing the crosshead we thought it would be easiest to make it a straight bar with holes for the leadscrew to fit in and small circular slots for the flange nuts to slide into. 
 
+![crossheaddrawing](crossheaddrawing.jpeg)
+
 ## Communicate
 
