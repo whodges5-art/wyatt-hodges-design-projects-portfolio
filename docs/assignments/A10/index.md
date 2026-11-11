@@ -28,3 +28,5 @@ When designing the crosshead we thought it would be easiest to make it a straigh
 
 ## Communicate
 After my partner had finished working on the CAD model I realized I made a mistake when calculating the nut size from the thread bending stress so our lead screw is much larger than what is calculated for but should still work if we have a strong enough motor.
+
+![mistakes](mistakes.jpeg)
