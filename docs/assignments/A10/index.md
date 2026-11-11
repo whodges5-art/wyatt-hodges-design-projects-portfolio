@@ -21,6 +21,9 @@ I solved for the minimum length of the crosshead by modeling it as a beam fixed 
 
 ![crosshead](crosshead.jpeg)
 ## Decide
+### Frame
+We decided to make our frame look the same as the example in the assignment and this is how our BOM turned out.
+![BOM](BOM.png)
 ### Crosshead 
 When designing the crosshead we thought it would be easiest to make it a straight bar with holes for the leadscrew to fit in and small circular slots for the flange nuts to slide into. 
 
