@@ -4,9 +4,9 @@
 
 
 ## Analyze
-[Motor Math](Motor.jpeg)
-[Mount Math](Mount.jpeg)
-[Coupler Math](Coupler.jpeg)
+![Motor Math](Motor.jpeg)
+![Mount Math](Mount.jpeg)
+![Coupler Math](Coupler.jpeg)
 
 ## Decide
 _Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
