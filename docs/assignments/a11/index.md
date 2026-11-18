@@ -5,6 +5,7 @@ The objective of this assignment is to select an appropriate motor for the tensi
 
 ## Analyze
 The first part of the assignment is to select a motor than can support the driving torque and rotational speed found during A10. Once I converted the units to oz-in and rps I could look at the graph and find an appropriate motor. The motor would need a torque of 37.22 oz-in and a rotational speed ranging from .236 to 11.81 rps.
+
 ![Motor Math](Motor.jpeg)
 ![Motor Graph](MotorGraph.png)
 After finding a datasheet detailing different SureStep High Voltage motors I looked for a graph that would fit these specifications. I tried to find one with a torque speed curve that intersected 37.22 oz-in and 11.81 rps. I found the STP-MTRAC-23044 met my requirements for driving torque and max speed. I then looked to make sure the torque produced at the minimum rps would be bellow the max allowable torque, 16313 oz-in, which it was.
