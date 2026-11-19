@@ -63,9 +63,9 @@ To design the floating bearing mount, is 60x60mm to fit on the aluminum extrusio
 ![full-assembly](full-assembly.png)
 
 ## Bill of Materials & Labor Cost
-
+![BOM](BOM.png)
 ## Lessons Learned
-
+During this assignment our group learned learned about the importance of focusing on small component failure modes while designing equipment and the cost of materials is much more expensive than expected. 
 ## Links
 [Motor Buy](https://www.automationdirect.com/adc/shopping/catalog/motion_control/stepper_systems/single_shaft_stepper_motors/stp-mtrac-23044)
 
