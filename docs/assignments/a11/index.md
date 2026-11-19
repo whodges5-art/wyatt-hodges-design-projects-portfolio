@@ -71,8 +71,10 @@ To design the floating bearing mount, is 60x60mm to fit on the aluminum extrusio
 ## Bill of Materials & Labor Cost (Wyatt)
 This is our bill of materials with a link to download the spreadsheet provided at the bottom of the page.
 ![BOM](BOM.png)
-## Lessons Learned (Aiden)
-During this assignment our group learned learned about the importance of focusing on small component failure modes while designing equipment and the cost of materials is much more expensive than expected. 
+
+## Lessons Learned (Wyatt)
+During this assignment our group learned learned about the importance of focusing on small component failure modes while designing equipment and the cost of materials is much more expensive than expected. We also learned about the importance of documenting your work because for most of this assignment we could reference previous work for answers.
+
 ## Links
 [Motor Buy](https://www.automationdirect.com/adc/shopping/catalog/motion_control/stepper_systems/single_shaft_stepper_motors/stp-mtrac-23044)
 
