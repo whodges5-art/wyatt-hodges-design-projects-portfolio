@@ -29,6 +29,12 @@ For the coupler I needed to determine the necessary outer diameter to support th
 ![Coupler Math](Coupler.jpeg)
 ![Couplers](Couplers.png)
 
+**Bracket**
+
+For the bracket I drew a sketch modeling the twisting caused by the motor torque and the reaction forces involved in the corner brackets that are supposed to keep the cross beam in place. I found that all the reaction forces would be focused on the screws holding the corner bracket to the extrusion so if the screws could support the load the bracket would not twist or fall.
+
+![bracket](bracket.jpeg)
+
 ## CAD
 **Top Frame FEA**
 
