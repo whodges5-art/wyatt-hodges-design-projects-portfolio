@@ -63,6 +63,7 @@ To design the floating bearing mount, is 60x60mm to fit on the aluminum extrusio
 ![full-assembly](full-assembly.png)
 
 ## Bill of Materials & Labor Cost
+This is our bill of materials with a link to download the spreadsheet provided at the bottom of the page.
 ![BOM](BOM.png)
 ## Lessons Learned
 During this assignment our group learned learned about the importance of focusing on small component failure modes while designing equipment and the cost of materials is much more expensive than expected. 
